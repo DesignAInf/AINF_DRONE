@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or experiment, please cite it as below."
+title: "Designing the Boundary: Constitutive Markov-Blanket Inversion in Individual and Collective Drones"
+type: software
+version: 0.5.0
+date-released: 2026-09-22
+authors:
+  - family-names: Possati
+    given-names: Luca M.
+license: MIT
+keywords:
+  - active inference
+  - Markov blanket
+  - expected free energy
+  - design theory
+  - collective agency
+

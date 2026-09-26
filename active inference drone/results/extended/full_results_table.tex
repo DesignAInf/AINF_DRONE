@@ -1,0 +1,36 @@
+\begin{table}[p]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{3.7pt}
+\begin{tabular}{llrrrrrr}
+\toprule
+Condition & Task & Success & Viability & $Q_{arch}$ & Final $\Delta_{fac}$ & Role acc. & Exact \\
+\midrule
+Constitutive & Construct & 95.0\% & 0.929 & 0.777 & 0.498 & 65.2\% & 80.0\% \\
+Constitutive & Stabilize & 95.0\% & 0.945 & 0.776 & 0.359 & 78.6\% & 65.0\% \\
+Constitutive & Transform & 100.0\% & 0.947 & 0.830 & 0.000 & 71.6\% & 65.0\% \\
+\addlinespace[2pt]
+Diagnostic only & Construct & 0.0\% & 0.173 & 0.029 & 27.068 & 49.4\% & 15.0\% \\
+Diagnostic only & Stabilize & 0.0\% & 0.940 & 0.282 & 8.589 & 76.3\% & 50.0\% \\
+Diagnostic only & Transform & 0.0\% & 0.857 & 0.496 & 0.000 & 78.6\% & 70.0\% \\
+\addlinespace[2pt]
+Factorized & Construct & 40.0\% & 0.757 & 0.429 & 8.979 & 61.1\% & 65.0\% \\
+Factorized & Stabilize & 20.0\% & 0.954 & 0.391 & 6.652 & 72.2\% & 45.0\% \\
+Factorized & Transform & 0.0\% & 0.869 & 0.496 & 0.000 & 76.3\% & 65.0\% \\
+\addlinespace[2pt]
+Random design & Construct & 85.0\% & 0.927 & 0.719 & 1.349 & 66.2\% & 75.0\% \\
+Random design & Stabilize & 85.0\% & 0.948 & 0.726 & 1.142 & 74.8\% & 60.0\% \\
+Random design & Transform & 0.0\% & 0.872 & 0.534 & 0.000 & 72.3\% & 55.0\% \\
+\addlinespace[2pt]
+Passive & Construct & 0.0\% & 0.206 & 0.029 & 27.068 & 49.1\% & 25.0\% \\
+Passive & Stabilize & 0.0\% & 0.941 & 0.282 & 8.589 & 74.3\% & 55.0\% \\
+Passive & Transform & 0.0\% & 0.857 & 0.496 & 0.000 & 78.6\% & 70.0\% \\
+\addlinespace[2pt]
+Oracle & Construct & 100.0\% & 0.943 & 0.803 & 0.000 & 72.8\% & 75.0\% \\
+Oracle & Stabilize & 100.0\% & 0.948 & 0.800 & 0.000 & 76.6\% & 60.0\% \\
+Oracle & Transform & 100.0\% & 0.947 & 0.830 & 0.000 & 71.6\% & 65.0\% \\
+\bottomrule
+\end{tabular}
+\caption{Complete frozen benchmark. Values are means over 20 paired seeds.}
+\label{tab:full-results}
+\end{table}

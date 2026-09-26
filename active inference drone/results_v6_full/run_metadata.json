@@ -1,0 +1,25 @@
+{
+  "version": "0.5.0",
+  "seeds": 20,
+  "seed_offset": 1000,
+  "tasks": [
+    "construct",
+    "stabilize",
+    "transform"
+  ],
+  "conditions": [
+    "constitutive",
+    "uniform_posterior",
+    "diagnostic_only",
+    "factorized",
+    "random_design",
+    "passive",
+    "oracle"
+  ],
+  "structured_partitions": 2520,
+  "primary_comparison": "constitutive vs diagnostic_only",
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "numpy": "2.3.5",
+  "quick": false
+}

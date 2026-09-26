@@ -1,0 +1,8 @@
+{
+  "a_constitutive_to_architecture": 0.5257811856026084,
+  "b_architecture_to_viability": 0.9662907664497821,
+  "direct_effect": -0.22452105143277418,
+  "indirect_effect": 0.5080575048208197,
+  "indirect_bootstrap_95_low": 0.3133943341269274,
+  "indirect_bootstrap_95_high": 0.7597037044810904
+}
