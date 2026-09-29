@@ -19,9 +19,6 @@ The core loop tested here is:
 ```text
 paths → q_t(M) → d_t → C_{t+1} → new paths
 ```
-
-![V6 architecture](publication_v6/v6_architecture.png)
-
 ---
 
 ## Central result
