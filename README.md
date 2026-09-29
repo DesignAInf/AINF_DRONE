@@ -47,8 +47,6 @@ The strongest contrast is **Reconfigure**: the full collective model succeeds in
 
 `Assemble` is an important limiting case: random joint action reaches the same 65% success rate as the full controller. The paper therefore does **not** claim that structural inference is necessary for every form of boundary modification. The evidence is strongest when successful intervention depends on inferred role organization rather than on generic structural change.
 
-![Uniform-posterior ablation](publication_v6/v6_uniform_posterior_ablation.png)
-
 ---
 
 ## What the model establishes
