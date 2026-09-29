@@ -325,7 +325,7 @@ paper/v6_release/
 
 For the current pre-publication version:
 
-> Possati, Luca M. (2026). *The Boundary That Learns Itself: Dynamic Markov-Blanket Discovery and Active Inference in an Autonomous Drone*. University of Twente. Computational repository, V6.
+> Possati, Luca M. (2026). *The Boundary That Learns Itself: Dynamic Markov-Blanket Discovery and Active Inference in an Autonomous Drone*. University of Twente. Version 6 - Sept. 2026.
 
 A final archival citation can replace this entry when the paper receives a DOI.
 
