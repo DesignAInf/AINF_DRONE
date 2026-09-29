@@ -1,7 +1,7 @@
 # Designing the Boundary
 
 **Constitutive Markov-Blanket Inversion in Individual and Collective Drones**  
-Luca M. Possati — V5.0
+Luca M. Possati
 
 This repository is the complete computational companion to the paper. It asks whether a drone can do more than detect a Markov blanket: can it select interventions that **construct, stabilize, or transform** the causal organization that makes a blanket true?
 
@@ -100,7 +100,7 @@ Runs are deterministic conditional on seed. Every frozen output directory contai
 
 See `CITATION.cff`. If you use the code or experiment, cite:
 
-> Possati, Luca M. (2026). *Designing the Boundary: Constitutive Markov-Blanket Inversion in Individual and Collective Drones*. Version 5.0.
+> Possati, Luca M. (2026). *Designing the Boundary: Constitutive Markov-Blanket Inversion in Individual and Collective Drones*. Version 6.
 
 ## License
 
