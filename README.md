@@ -111,8 +111,6 @@ The two-drone experiment separates **evidence pooling** from **policy coordinati
 
 The result is task-dependent. In **Reconfigure**, evidence pooling carries most of the gain; in **Assemble** and **Repair**, shared policy coordination also contributes substantially.
 
-![Collective 2x2](publication_v6/v6_collective_2x2.png)
-
 ---
 
 ## Conceptual contribution
@@ -327,8 +325,6 @@ paper/v6_release/
 
 ## Citation
 
-See [`CITATION.cff`](CITATION.cff).
-
 For the current pre-publication version:
 
 > Possati, Luca M. (2026). *The Boundary That Learns Itself: Dynamic Markov-Blanket Discovery and Active Inference in an Autonomous Drone*. University of Twente. Computational repository, V6.
@@ -339,7 +335,7 @@ A final archival citation can replace this entry when the paper receives a DOI.
 
 ## License
 
-MIT License. See [`LICENSE`](LICENSE).
+MIT License.
 
 Copyright © 2026 Luca M. Possati.
 DME (1).md…]()
