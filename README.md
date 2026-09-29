@@ -336,5 +336,4 @@ A final archival citation can replace this entry when the paper receives a DOI.
 MIT License.
 
 Copyright © 2026 Luca M. Possati.
-DME (1).md…]()
 
